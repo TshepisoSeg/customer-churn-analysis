@@ -30,13 +30,13 @@ The project includes several charts:
 ## Visualizations
 
 ### Customer Distribution Histogram
-![Histogram](images/customer_churn_analysis_hist.png)
+![Histogram](customer_prediction_project/images/customer_churn_analysis_hist.png)
 
 ### Churn Count Bar Chart
-![Bar Chart](images/customer_churn_analysis_barh.png)
+![Bar Chart](customer_prediction_project/images/customer_churn_analysis_barh.png)
 
 ### Trend Line Chart
-![Line Chart](images/customer_churn_analysis_line.png)
+![Line Chart](customer_prediction_project/images/customer_churn_analysis_line.png)
 
 ## Project Structure
 
