@@ -1,0 +1,28 @@
+# Customer Churn Analysis
+
+## Overview
+This project analyzes customer churn using Python and Jupyter Notebook.
+The goal is to explore patterns in customer behavior and identify factors
+that contribute to customers leaving a service.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Project Files
+customer_churn_analysis.ipynb – main notebook  
+customer_churn_analysis.html – exported notebook for viewing  
+requirements.txt – project dependencies  
+
+## Visualizations
+The project includes several charts:
+- Histogram of customer distribution
+- Bar chart showing churn counts
+- Line chart showing trends
+
+## How to Run
+1. Install dependencies
+2. Open the notebook
+3. Run 'customer_churn_analysis.ipynb
