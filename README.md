@@ -26,3 +26,31 @@ The project includes several charts:
 1. Install dependencies
 2. Open the notebook
 3. Run 'customer_churn_analysis.ipynb
+
+## Visualizations
+
+### Customer Distribution Histogram
+![Histogram](customer_churn_analysis_hist.png)
+
+### Churn Count Bar Chart
+![Bar Chart](customer_churn_analysis_barh.png)
+
+### Trend Line Chart
+![Line Chart](customer_churn_analysis_line.png)
+
+## Project Structure
+
+customer-churn-analysis/
+│
+├── customer_churn_analysis.ipynb   # main analysis notebook
+├── customer_churn_analysis.html    # exported notebook
+├── requirements.txt                # dependencies
+├── histogram.png
+├── bar_chart.png
+└── line_chart.png
+
+## Key Insights
+
+- Customers with shorter tenure showed higher churn rates
+- Certain service plans had significantly higher churn
+- Visualization revealed patterns useful for retention strategies
